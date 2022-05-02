@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITraining\RevitAPI_task82.dll"</Assembly>
+		<AddInId>05B2D7F7-0574-4BD4-8528-44DAE3EE7E41</AddInId>		
+		<FullClassName>RevitAPI_task82.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Эксорт в Navis</Text>
+	</AddIn>
+</RevitAddIns>
